@@ -1,6 +1,6 @@
 {
 	"name": "fbgraphapi",
-	"description": "Simple facebook api client",
+	"description": "Simple facebook api client for nodejs",
 	"keywords": ["client", "facebook", "api"],
 	"author": "Nguyen Van Nhu",
 	"homepage" : "https://github.com/vanng822/facebook-nodejs",
